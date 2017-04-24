@@ -1,0 +1,9 @@
+*.xml
+*.jar
+*.java
+*.txt
+*.war
+*.class
+*.mf
+*.mv
+Constants.java
